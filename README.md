@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7990F&multiline=true&width=435&lines=local+eishius+%3D+%22cringe%22;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7990F&multiline=true&width=435&lines=local+Stoopy+%3D+%22cringe%22;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 - Currently working on Glua addons.
 - Currently a Backend Developer.
