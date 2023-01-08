@@ -5,6 +5,7 @@
 - [Social Card](https://eishius.carrd.co)
 - [Contact me via email](eishiusmain@gmail.com)
 - Langauges: JavaScript, Java, C#, C++, GO, Python, Lua.
+- Account run by Stoopy and Slurpy
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+CodeCode&duration=2200&pause=4100&color=F7C041&multiline=true&width=220&lines=Loading+Languages...)](https://git.io/typing-svg)
 
